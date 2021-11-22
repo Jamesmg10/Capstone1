@@ -36,4 +36,13 @@
 <li>
     States are not required to report all incidents.
 </li>
+<h2> Part 1:<em> Federal Analysis</em>
+</h2>
+<p>
+In terms of the scope of the data, 3230 entries representing 8 years of gun related incidents, it is best to begin analysis on a broader scope and narrow through calculated research.
+</p>
+<p>
+In the past decade of presidential campaigns it has been an imperative talking point to address the surge in gun violence and formulate solutions. Our data det contains data from the Obama Administration as well as the Trump administration. Two presdencies with vastly diffrent views on gun-policy and gun control in the United States. 
+</p>
+
 

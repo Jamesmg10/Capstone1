@@ -82,7 +82,7 @@ October 1st, 2017 the largest mass shooting in modern history left 58 people dea
 <img src="data/images/LasVegasShooting.jpeg" alt="Data Frame PNG" title="KilledByYear" />
 </p>
 <p>
-This influx of new policies can be attributed as a possible explanation to the decrease in gun related incidences. Besides, this outlier the only correlation that can be derived on a federal level is the 101.4% increase between 2014 and 2021 per the data set. 
+This influx of new policies can be attributed as a possible explanation to the decrease in gun related incidences. Besides, this outlier the only correlation that can be derived on a federal level is the <h4>101.4% increase between 2014 and 2021</h4> per the data set. 
 </p>
 <img src="data/images/KilledByYearData.png" alt="Data Frame PNG" title="KilledByYearData" />
 </p>

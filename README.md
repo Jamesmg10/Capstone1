@@ -77,12 +77,12 @@ October 1st, 2017 the largest mass shooting in modern history left 58 people dea
 </p>
 <h4><em>
 "... More than 30 laws preventing gun violence passed in state legislatures..." - Newsweek
-<h4></em>
+</h4></em>
 <p>
 <img src="data/images/LasVegasShooting.jpeg" alt="Data Frame PNG" title="KilledByYear" />
 </p>
 <p>
 This influx of new policies can be attributed as a possible explanation to the decrease in gun related incidences. Besides, this outlier the only correlation that can be derived on a federal level is the 101.4% increase between 2014 and 2021 per the data set. 
 </p>
-<img src="data/images/KilledByYearData.png" alt="Data Frame PNG" title="KilledByYear" />
+<img src="data/images/KilledByYearData.png" alt="Data Frame PNG" title="KilledByYearData" />
 </p>

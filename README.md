@@ -45,11 +45,44 @@ In terms of the scope of the data, 3230 entries representing 8 years of gun rela
 In the past decade federal policy has been forced to address the impeding crisis that is gun violence in the United States. This talking point, widely debated, has seemingly no remedy in sight. Our data set contains data from the Obama Administration as well as the Trump administration. Two presdencies with vastly diffrent views on gun-policy and gun control in the United States.
 </p>
 <p>
-<img src="data/images/InjuredByYear.png" alt="Data Frame PNG" title="Title" />
+<img src="data/images/InjuredByYear.png" alt="Data Frame PNG" title="InjuredByYear" />
 </p>
 <p>
 At face value, you can deduce two things:
-<ul>1.There is a clear and obvious increase every year 
+<ul>
+1. There is a clear and obvious increase between every year with 17'-18' & 20'-21'as an exception.
 </ul>
+<ul>
+&
+</ul>
+<ul>
+2. The Obama Administration yeilded less Gun Related Injuries than the Trump Administration
+</ul>
+And the same can be deduced from the "Killed by Gun Related Incident" graph below.
 </p>
-
+<p>
+<img src="data/images/KilledByYear.png" alt="Data Frame PNG" title="KilledByYear" />
+</p>
+<p>
+But why? Maybe a more in depth analysis will reveal a correlation.
+</p>
+<p>
+The consistent outlier between the "Injured" and "Killed" by year graphic is the apparent drop in incidents in 2018.
+</p>
+<p>
+Looking only at Federal level actions, there were no federal gun laws passed in 2017 that could have spurred a fluctuation. How can we explain this?
+</p>
+<p>
+October 1st, 2017 the largest mass shooting in modern history left 58 people dead and injured close to 700. Following this incident, while there were no federal gun laws implemented... 
+</p>
+<h4><em>
+"... More than 30 laws preventing gun violence passed in state legislatures..." - Newsweek
+<h4></em>
+<p>
+<img src="data/images/LasVegasShooting.jpeg" alt="Data Frame PNG" title="KilledByYear" />
+</p>
+<p>
+This influx of new policies can be attributed as a possible explanation to the decrease in gun related incidences. Besides, this outlier the only correlation that can be derived on a federal level is the 101.4% increase between 2014 and 2021 per the data set. 
+</p>
+<img src="data/images/KilledByYearData.png" alt="Data Frame PNG" title="KilledByYear" />
+</p>

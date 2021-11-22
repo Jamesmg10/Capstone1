@@ -82,7 +82,17 @@ October 1st, 2017 the largest mass shooting in modern history left 58 people dea
 <img src="data/images/LasVegasShooting.jpeg" alt="Data Frame PNG" title="KilledByYear" />
 </p>
 <p>
-This influx of new policies can be attributed as a possible explanation to the decrease in gun related incidences. Besides, this outlier the only correlation that can be derived on a federal level is the <strong>101.4% increase between 2014 and 2021<strong> per the data set. 
+This influx of new policies can be attributed as a possible explanation to the decrease in gun related incidences. Besides, this outlier the only correlation that can be derived on a federal level is the <strong>101.4% increase between 2014 and 2021</strong> per the data set. 
 </p>
 <img src="data/images/KilledByYearData.png" alt="Data Frame PNG" title="KilledByYearData" />
+</p>
+<p>
+It is important to note that during the Obama Administration gun owners rights were actually expanded. However, in response to the 2017, Sandy Hook shooting, a rule was introduced requiring the Social Security Administration to report disability-benefit recipients with mental health conditions to the FBI’s background check system, which is used to screen firearm buyers.
+</p>
+<p>
+The Trump Administration rescinded this rule in 2017.
+</p>
+<h2> Part 2:<em> State Analysis</em>
+</h2>
+<p>
 </p>

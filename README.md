@@ -25,7 +25,7 @@
     <li>
      Gun violence  and crime incidents are collected/validated from 7,500 sources daily – Incident Reports and their source data are found at the gunviolencearchive.org website. However, this does not ensure a complete data set. 
     </li>
-    <img src="DataFrame.png" alt="Data Frame PNG" title="Title" />
+    <img src="data/images/DataFrame.png" alt="Data Frame PNG" title="Title" />
 </ul>
 <h3>Data Set Constraints:</h3>
 <li>Aggregated Data

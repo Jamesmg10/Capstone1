@@ -42,7 +42,14 @@
 In terms of the scope of the data, 3230 entries representing 8 years of gun related incidents, it is best to begin analysis on a broader scope and narrow through calculated research.
 </p>
 <p>
-In the past decade of presidential campaigns it has been an imperative talking point to address the surge in gun violence and formulate solutions. Our data det contains data from the Obama Administration as well as the Trump administration. Two presdencies with vastly diffrent views on gun-policy and gun control in the United States. 
+In the past decade federal policy has been forced to address the impeding crisis that is gun violence in the United States. This talking point, widely debated, has seemingly no remedy in sight. Our data set contains data from the Obama Administration as well as the Trump administration. Two presdencies with vastly diffrent views on gun-policy and gun control in the United States.
 </p>
-
+<p>
+<img src="data/images/InjuredByYear.png" alt="Data Frame PNG" title="Title" />
+</p>
+<p>
+At face value, you can deduce two things:
+<ul>1.There is a clear and obvious increase every year 
+</ul>
+</p>
 

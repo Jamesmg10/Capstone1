@@ -116,7 +116,7 @@ It is important to analyze on a state level do to the autonmous nature of state 
 Speaking in terms of gun violence at a state level we can use our data set to visualize which states have the most occurences of Gun Related Killing's and Injuries.
 </p>
 <p>
-<img src="data/images/StateKilledInjured1.png" alt="Data Frame PNG" title="StateKilledInjured" />
+<img src="data/images/StateKilledInjured2.png" alt="Data Frame PNG" title="StateKilledInjured" />
 </p>
 <p>
 Things to note:

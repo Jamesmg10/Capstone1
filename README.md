@@ -106,7 +106,7 @@ The state analysis section will encompass a data analysis focusing on:
 &
 </ul>
 <ul>
-2. If any state regarding gun violence had any effect on growing gun related incidents.
+2. If any state passed gun legislation that had any effects on growing gun related incidents.
 </ul> 
 </p>
 <p>
@@ -119,5 +119,15 @@ Speaking in terms of gun violence at a state level we can use our data set to vi
 <img src="data/images/StateKilledInjured.png" alt="Data Frame PNG" title="StateKilledInjured" />
 </p>
 <p>
+Things to note:
+<ul>
+- From a broad perspective, over the course of 8 years, Illinois has the most gun related incidents, while Vermont has the least.
+</ul>
+<ul>
+ - Population is not taken into account, while Illinois has the most incidents, the state is over twice(12.58M) as populated as Tennessee(6.21M). Furthermore, California(39.53M) ranks 2nd in gun related Incidents, it is 8.5x more populated than 6th ranking Louisiana(4.65M). Population is a crucial contributor.
+</ul>
+</p>
+<p>
+
 
 

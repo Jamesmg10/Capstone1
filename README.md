@@ -95,4 +95,29 @@ The Trump Administration rescinded this rule in 2017.
 <h2> Part 2:<em> State Analysis</em>
 </h2>
 <p>
+Building on the federal analysis, in the past decade it can be deduced that the most noteble factors which influenced gun violence appeared on a state level. 
 </p>
+<p>
+The state analysis section will encompass a data analysis focusing on:
+<ul>
+1. State political affiliation examining any correlations.
+</ul>
+<ul>
+&
+</ul>
+<ul>
+2. If any state regarding gun violence had any effect on growing gun related incidents.
+</ul> 
+</p>
+<p>
+It is important to analyze on a state level do to the autonmous nature of state governments. The Texas state government does not behave like Washington state and there and in many ways it is good to analyze state level successes and failures in order to determine best practices for potential federal implementation.
+</p>
+<p>
+Speaking in terms of gun violence at a state level we can use our data set to visualize which states have the most occurences of Gun Related Killing's and Injuries.
+</p>
+<p>
+<img src="data/images/StateKilledInjured.png" alt="Data Frame PNG" title="StateKilledInjured" />
+</p>
+<p>
+
+

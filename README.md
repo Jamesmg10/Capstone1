@@ -127,7 +127,22 @@ Things to note:
  - Population is not taken into account, while Illinois has the most incidents, the state is over twice(12.58M) as populated as Tennessee(6.21M). Furthermore, California(39.53M) ranks 2nd in gun related Incidents, it is 8.5x more populated than 6th ranking Louisiana(4.65M). Population is a crucial contributor.
 </ul>
 </p>
-<p>
+<h2><em> Conclusion</em></h2>
+
+After analyzing the limited data presented, it can be seen that trends of gun violence in the United States have been fairly consistent with implementation of Federal and State laws passed throughout the country. Mass Shootings tend to trigger spurs of legislative action, however, it is not often passed. Over the last 8 years, there have been little to no federal gun laws passed that have made any impact on the upward trend of gun related incidents. However, in state governments, legislation passed was able to alter the trend but not ultimately eliminate the problem.
+
+<h1><em> References</em></h1>
+<li>
+https://www.kaggle.com/konivat/us-gun-violence-archive-2014
+</li>
+<li>
+https://www.gunviolencearchive.org/reports
+</li>
+<li>
+https://www.newsweek.com/gun-laws-mass-shootings-2017-donald-trump-751884
+</li>
+
+
 
 
 
